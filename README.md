@@ -1,4 +1,4 @@
-#Photography Showcasing Website
+## Photography Showcasing Website
 
 This website is front-end focussed and built on HTML and vanilla CSS.
 It is only the UI of a photogrpahy website where people would come and see the various images captured by photographers.
@@ -7,20 +7,19 @@ It is only the UI of a photogrpahy website where people would come and see the v
 
 ## Overview
 
-Welcome to the **Photography Showcasing App** project! This web application allows users to create and manage multiple countdown timers for their events. Whether it's a birthday, an anniversary, or any significant occasion, you can keep track of your events easily. This project is aimed at promoting open-source contributions as part of **Hacktoberfest 2024**.
+Welcome to the **Photography Showcasing App** project! This repository contains the source code for a website showcasing photography work where people can see the photos and paintings by experts. The website is built using HTML and CSS. This project is aimed at promoting open-source contributions as part of **Hacktoberfest 2024**.
 
 ## Features
 
-- **Multiple Event Timers**: Add as many events as you want with custom names and countdown times.
-- **Real-Time Countdown**: Timers update dynamically, providing real-time countdowns to your events.
-- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
-- **Hacktoberfest Celebration**: Includes a footer dedicated to Hacktoberfest, encouraging contributions to open-source.
+- **Gallery**: Take a look on expert photographer's way of playing with a camera.
+- **Exhibits**: See what the painters paint and get into a new realm.
+- **Store**: Obsessed with the work of an artist? Directly buy the work and keep it forever with you.
+- **Contact**: Feel free to contact the team of the artists anytime using the contact option.
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript
 
 ### Option 1. Complete this process in GitHub (in your browser)
 
@@ -63,18 +62,18 @@ You can ask questions by raising an issue.
 
 **2. Clone this project on your computer:**
 
-- Go to your profile. You will find forked repo named **eventTimer**. go to the repo by clicking on it.
+- Go to your profile. You will find forked repo named **Mini_Project**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 ```bash
-  git clone https://github.com/<your-github-username>/eventTimer.git
+  https://github.com/HardikMahajan97/Mini_project.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window. 
 
 
 ```bash
-  cd eventTimer
+  cd Mini_Project
 ```
 
 **3. Open in code Editor:**
