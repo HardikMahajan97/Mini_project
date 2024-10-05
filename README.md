@@ -66,14 +66,14 @@ You can ask questions by raising an issue.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 ```bash
-  https://github.com/HardikMahajan97/Mini_project.git
+  https://github.com/HardikMahajan97/Photography_Showcasing_Website.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window. 
 
 
 ```bash
-  cd Mini_Project
+  cd Photography_Showcasing_Website
 ```
 
 **3. Open in code Editor:**
@@ -153,7 +153,7 @@ or
 > **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```bash
-ERROR: Permission to https://github.com/Hacktoberfest-Event-Timer/eventTimer.git denied to <your-github-username>.
+ERROR: Permission to https://github.com//Photography_Showcasing_Website.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
